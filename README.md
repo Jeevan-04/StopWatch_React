@@ -16,5 +16,7 @@ The index.css file provides basic styling for the application. It includes style
 
 
 `Start Button: Click to start or resume the timer.`
+<br>
 `Stop Button: Click to pause the timer.`
+<br>
 `Reset Button: Click to reset the timer to zero.`
